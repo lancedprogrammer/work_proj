@@ -17,6 +17,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background: #f4f6f9;
     color: #333;
+    
+    background-image: url("photos/system background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 
